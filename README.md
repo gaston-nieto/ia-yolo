@@ -51,7 +51,7 @@ El proyecto, en su versión inicial (MVP), incluye:
 ## Origen de los datos
 
 Las imágenes utilizadas para entrenar este modelo fueron obtenidas del dataset público de Kaggle:
-- [Cow Detection Dataset (CVAT/XML)](https://www.kaggle.com/datasets/gastonnie/cows-detection-dataset)
+- [Cow Detection Dataset (CVAT/XML)](https://www.kaggle.com/datasets/trainingdatapro/cows-detection-dataset)
 
 ## Estructura del proyecto
 
