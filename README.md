@@ -67,8 +67,8 @@ Las imágenes utilizadas para entrenar este modelo fueron obtenidas del dataset 
 ## Cómo correr el proyecto
 
 ### 1. Prepara el dataset
-- Clona el repositorio 
-- deszip el archivo cows-detection-dataset.zip
+- Clona el repositorio ```https://github.com/gaston-nieto/ia-yolo```
+- deszipear el archivo cows-detection-dataset.zip
 - Convertir el dataset con convertir_a_yolo.py para pasarlo a formato YOLO:
   ```bash
   python convertir_a_yolo.py
